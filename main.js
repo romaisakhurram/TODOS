@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import inquirer from "inquirer";
-let todos = ["Rafay", "Uzair", "Mahma"];
+let todos = ["Rafay", "Uzair", "Maham"];
 async function createTodos(todos) {
     do {
         let answer = await inquirer.prompt([
