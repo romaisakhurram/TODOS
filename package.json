@@ -1,6 +1,6 @@
 {
   "name": "@romaisakhurram/todos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a list game!",
   "main": "index.js",
   "type": "module",
